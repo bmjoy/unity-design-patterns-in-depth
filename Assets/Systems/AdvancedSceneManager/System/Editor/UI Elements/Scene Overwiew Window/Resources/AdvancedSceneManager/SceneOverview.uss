@@ -1,0 +1,34 @@
+#root {
+	margin: 22px;
+}
+
+#root .horizontal {
+	margin-top: 0px;
+}
+
+#profileField {
+	margin: 22px;
+}
+
+#separator {
+	height: 1px;
+	flex-shrink: 0;
+	background-color: black;
+}
+
+SceneField {
+	width: 300px;
+}
+
+.LayerDropDown {
+	width: 100px;
+}
+
+.LayerDropDown:hover{
+	background-color: var(--main-hover-color);
+}
+
+SceneField > .OpenScene {
+	background-color: rgb(64,64,64);
+	border-color: rgba(0,0,0, 0.4);
+}

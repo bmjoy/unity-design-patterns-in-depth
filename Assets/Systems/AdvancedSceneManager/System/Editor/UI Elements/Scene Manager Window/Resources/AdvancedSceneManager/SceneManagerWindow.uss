@@ -1,0 +1,283 @@
+﻿#root {
+    display: flex;
+    flex-direction: column;
+    padding: 2px;
+    margin-left: -2px;
+    margin-right: -2px;
+    margin-top: -1px;
+    margin-bottom: -2px;
+}
+
+#header {
+    height: 60px;
+    min-height: 60px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    background-color: var(--header-bg-color);
+}
+#Play{
+    position: absolute;
+    top:12px;
+    left: 10px;
+}
+#Play #PlayButton{
+    border-radius: 0px;
+    background-color: var(--main-btn-color);
+    border-color: #272727;
+    border-left-width: 1px;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-radius: 2px;
+    height: 35px;
+    width: 35px;
+    color: green;
+    
+
+}
+#Play #PlayButton:hover{
+    background-color: var(--main-hover-color);
+}
+
+#tabs {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+}
+
+#tabs .tab-button {
+    margin: 2px;
+    width: 70px;
+    height: 42px;
+    border-width: 1px;
+    padding:0;
+    background-color: var(--main-btn-color);
+}
+#tabs .tab-button:hover {
+    background-color: var(--main-hover-color);
+}
+#tabs .tab-button.selected {
+    background-color: var(--main-selected-color);
+}
+
+.OpenScene {
+    border-color: #353535;
+}
+
+#Extra-Buttons {
+    flex-shrink: 0;
+}
+
+.unity-toggle__text {
+    width: 100%;
+    height: 100%;
+    -unity-text-align: middle-center;
+    padding-left: -1px;
+}
+
+#windowButtons {
+    height: 22px;
+    position: absolute;
+    top:0;
+    right: 0;
+    background-color: teal;
+}
+
+#button-menu {
+    margin: 0px;
+    width: 26px;
+    height: 26px;
+    border-width: 1px;
+    font-size: 18px;
+    border-width: 0px;
+    border-radius: 0px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    left: auto;
+}
+
+#button-reload {
+    padding: 0px;
+    margin: 0px;
+    width: 26px;
+    height: 26px;
+    border-width: 1px;
+    font-size: 14px;
+    border-width: 0px;
+    border-radius: 0px;
+    position: absolute;
+    top: 0px;
+    right: 22px;
+    left: auto;
+}
+
+.windowButton:hover {
+    background-color: var(--main-hover-color);
+}
+
+.windowButton:active {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+#content {
+    height: 100%;
+    background-color: var(--content-bg-color);
+}
+
+#tab-content{
+    margin: 5px 5px;
+}
+
+#footer {
+    height: 42px;
+    min-height: 42px;
+    width: 100%;
+    bottom: 0px;
+    flex-direction: row;
+    background-color: var(--footer-bg-color);
+    padding-left: 6px;
+    padding-right: 6px;
+    align-items: center;
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+}
+.footer-left {
+    flex-direction: row;
+    flex-grow: 2;
+}
+.footer-right {
+    flex-grow: 0;
+    margin-right: -4px;
+}
+.footer .newButton
+{
+    background-color: var(--main-btn-color);
+    border-radius: 0;
+    padding-top: 2px;
+    height: 30px;
+}
+.footer .newButton:hover
+{
+    background-color: var(--main-hover-color);
+}
+
+.footer Label {
+    margin-bottom: 1px;
+    margin-left: 5px;
+    align-self: center;
+}
+.StandardButton{
+    height: 21px;
+    width: 21px;
+    border-radius: 0;
+    background-color: var(--main-btn-color);
+    padding: 0px;
+}
+.StandardButton:hover{
+    background-color: var(--main-hover-color);
+}
+.StandardButton:checked {
+    background-color: var(--main-hover-color);
+}
+ToolbarToggle:checked {
+    background-color: var(--main-hover-color);
+}
+.no-checkedBackground:checked {
+    background-color: transparent;
+}
+
+#Collections-template-expander {
+    font-size: 8px;
+}
+#Collections-template-expander:checked {
+    background-color: transparent;
+}
+.hidden{
+    display:none;
+    max-height: 0px;
+}
+
+.draggable-pointerArea {
+    cursor: Link;
+    align-self: center;
+    border-width: 1px;
+    -unity-text-align: middle-center;
+}
+.draggable-root {
+    
+}
+.draggable-hidden {
+}
+ 
+#block-input-overlay {
+    background-color: transparent;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.horizontal {
+    flex-direction: row;
+}
+
+#Settings-PauseScreen {
+    flex-grow: 1;
+}
+
+ObjectField {
+    width: 200px;
+}
+
+#No-Profile-Warning {
+    min-height: 22px;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+}
+
+#No-Profile-Warning Label {
+    color: black;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+#No-Profile-Warning-Label {
+    color: black;
+    flex-grow: 2;
+}
+
+.Link-To-Settings {
+    flex-grow: 0;
+    cursor: link;
+    color: black;
+}
+
+ObjectFieldDisplay Label {
+    position: absolute;
+    left: 16px;
+}
+
+.review {
+    background-color: #FFAD33;
+    height: 36px;
+    min-height: 28px;
+    justify-content: center;
+    padding: 5px;
+
+}
+.review Label{
+    font-size: 13px;
+    width: 224px;   
+}
+.review .hl{
+    height: 1px;
+    background-color:black;
+    width: 224px;    
+}

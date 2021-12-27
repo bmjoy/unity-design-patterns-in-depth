@@ -1,0 +1,41 @@
+﻿#overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+#popup {
+    background-color: transparent;
+    position: absolute;
+    align-self: flex-start;
+}
+
+#popup.border {
+    border-width: 1px;
+    border-color: gray;
+}
+
+#popup > ToolbarToggle {
+    height: 200px;
+}
+
+#popup .MenuItem{
+    height: 24px;
+    border-width: 0px;
+    margin: 0px -1px 0px 1px;
+}
+
+#popup SceneField {
+    margin-bottom: 6px;
+}
+
+#popup EnumField{
+    min-width: 260px;
+}
+#popup TextField{
+    min-width: 300px;
+}
+
+.hidden {
+    height: 0px;
+}

@@ -1,0 +1,21 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:Label text="Welcome to Advanced Scene Manager!" style="-unity-text-align: upper-center; -unity-font-style: bold; margin-top: 42px; margin-bottom: 6px; font-size: 15px;">
+        <Style src="DependencyManagerWindow.uss" />
+    </ui:Label>
+    <ui:Label text="Before proceeding the following dependencies must be installed:" style="-unity-text-align: upper-center; margin-left: 42px; margin-right: 42px;">
+        <Style src="DependencyManagerWindow.uss" />
+    </ui:Label>
+    <ui:VisualElement name="content">
+        <Style src="DependencyManagerWindow.uss" />
+        <ui:VisualElement name="list" style="flex-direction: column; justify-content: center; margin-top: 22px; margin-left: 64px; margin-right: 64px;">
+            <ui:VisualElement style="flex-direction: row; -unity-text-align: upper-left; flex-shrink: 0; flex-grow: 1;">
+                <ui:Label text="Label" style="flex-grow: 1; -unity-text-align: middle-left;" />
+                <ui:Button text="Install" style="display: flex;" />
+                <ui:Label text="✓" style="-unity-text-align: middle-center;" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement style="margin-top: 22px;">
+            <ui:Button text="Reload" name="reloadButton" style="align-items: flex-end; width: auto; justify-content: flex-end; opacity: 1; position: absolute; right: 64px;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

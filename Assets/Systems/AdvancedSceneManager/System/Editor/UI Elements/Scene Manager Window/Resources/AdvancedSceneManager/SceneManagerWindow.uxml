@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<engine:UXML xmlns="UnityEngine.UIElements"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xmlns:engine="UnityEngine.UIElements"
+             xmlns:editor="UnityEditor.UIElements"
+             xsi:noNamespaceSchemaLocation="../../../../../../../../UIElementsSchema/UIElements.xsd">
+
+  <VisualElement name="root">
+
+    <VisualElement name="No-Profile-Warning">
+
+      <Label name="No-Profile-Warning-Label" text=""/>
+
+      <VisualElement class="Link-To-Settings" name="Link-To-Settings-Button">
+        <Label class="Link-To-Settings" text="Change active profile"/>
+        <VisualElement class="Link-To-Settings" style="height: 1px; background-color: black; margin-left: 5px; margin-right: 5px;"/>
+      </VisualElement>
+
+    </VisualElement>
+
+    <VisualElement name="header">
+      <VisualElement name="tabs"/>
+
+      <VisualElement name="Play">
+        <Button name="PlayButton" text="▶" tooltip="Start as build"/>
+      </VisualElement>
+
+      <VisualElement name="Menu">
+        <editor:ToolbarToggle class="StandardButton" name="button-menu" text="≡"/>
+        <Button class="StandardButton" name="button-reload" text="↻" tooltip="Reload assets"/>
+      </VisualElement>
+
+    </VisualElement>
+
+    <VisualElement name="content">
+      <ScrollView name="scrollview">
+        <VisualElement name="tab-content"/>
+      </ScrollView>
+    </VisualElement>
+
+    <VisualElement name="footer" class="footer">
+
+      <VisualElement name="footer-left" class="footer-left">
+        <VisualElement name="selection-buttons" class="horizontal">
+          <Button name="bakeLightMapsButton" text="Bake Lightmaps" class="newButton"/>
+          <Button name="combineScenesButton" text="Combine scenes" class="newButton"/>
+        </VisualElement>
+        <Label name="selectionText" text="'CTRL + Click, to select items'"/>
+      </VisualElement>
+
+      <VisualElement name="footer-right" class ="footer-right"/>
+
+    </VisualElement>
+
+    <VisualElement class="review">
+      <Label class="Link-To-Settings" text="Support us by Reviewing our asset!"/>
+      <VisualElement class="hl"/>
+      <Button name="closeReviewPrompt" text="x" style="background-color: clear; border-width: 0px; position: absolute; right: 0px; color: black; cursor: link; top: 2px;"/>
+    </VisualElement>
+    
+  </VisualElement>
+
+</engine:UXML>

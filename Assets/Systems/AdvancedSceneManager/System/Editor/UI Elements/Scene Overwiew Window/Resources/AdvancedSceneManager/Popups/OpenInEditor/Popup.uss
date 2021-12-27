@@ -1,0 +1,7 @@
+﻿#root {
+	margin: 22px;
+}
+
+#enum {
+	margin-bottom: 12px;
+}

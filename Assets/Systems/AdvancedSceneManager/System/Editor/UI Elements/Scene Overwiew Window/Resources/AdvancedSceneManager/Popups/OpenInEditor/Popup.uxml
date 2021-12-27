@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UXML xmlns="UnityEngine.UIElements"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:custom="AdvancedSceneManager.Editor"
+      xmlns:engine="UnityEngine.UIElements"
+      xmlns:editor="UnityEditor.UIElements"
+      xsi:noNamespaceSchemaLocation="../../../../../../../../../../UIElementsSchema/UIElements.xsd">
+
+  <VisualElement name="root">
+    <Label text="Open scene in editor when:"/>
+    <editor:EnumField name="enum"/>
+    <VisualElement name="list"/>
+  </VisualElement>
+  
+</UXML>

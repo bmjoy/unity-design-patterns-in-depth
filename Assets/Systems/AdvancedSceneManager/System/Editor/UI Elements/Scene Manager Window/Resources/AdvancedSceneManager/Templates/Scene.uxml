@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UXML xmlns="UnityEngine.UIElements"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:engine="UnityEngine.UIElements"
+      xmlns:editor="UnityEditor.UIElements"
+      xmlns:custom="AdvancedSceneManager.Editor"
+      xmlns:packageManager="UnityEditor.PackageManager.UI"
+      xsi:noNamespaceSchemaLocation="../../../../../../../../../UIElementsSchema/UIElements.xsd">
+
+  <VisualElement name="scene-drag-root">
+    <VisualElement class="Scene-template">
+
+      <Label class="Scene-letter" text=" " />
+      <Label class="Collections-template-header-OpenButton draggable-pointerArea lockable" name="scene-drag-button" text="=" tooltip="Drag and drop to reorder"/>
+
+      <VisualElement class="Scene_ColorIndicator"/>
+      <custom:SceneField class="sceneField lockable" name="sceneField" allow-scene-objects="false"/>
+
+      <VisualElement class="horizontal lockable" name="Extra-Buttons"/>
+      <Button class="NewScene lockable" text="New" tooltop="Create new scene"/>
+      <Button class="LayerDropDown lockable"/>
+
+      <!-- Remove-->
+      <Button class="Scene-template-header-Remove lockable" name="Scene-template-header-Remove" text="-" tooltip="Remove scene field"/>
+
+    </VisualElement>
+  </VisualElement>
+
+</UXML>

@@ -1,0 +1,51 @@
+﻿.header {
+	margin-top: 12px;
+	margin-bottom: 6px;
+	-unity-font-style: bold;
+}
+
+#Settings-UsePauseScreen Label {
+	margin-right: 51px;
+}
+
+#Settings-Profile {
+	flex-grow: 2;
+}
+
+#Settings-New-Profile-Button {
+	min-width: 22px;
+	margin: 0;
+	flex-grow: 0;
+	border-width: 0px;
+	font-size: 22px;
+}
+
+EnumField {
+	flex-shrink: 1;
+	margin-bottom: 4px;
+}
+
+EnumField Label {
+	margin-right: 42px;
+}
+
+Toggle {
+	width: 300px;
+}
+
+Toggle VisualElement {
+	margin-left: 4px;
+	justify-content: flex-end;
+}
+
+Box {
+	margin-bottom: 6px;
+}
+
+.header {
+	font-size: 13px;
+	margin-top: 2px;
+	border-width: 0px;
+	background-color: transparent;
+	-unity-text-align: middle-left;
+}

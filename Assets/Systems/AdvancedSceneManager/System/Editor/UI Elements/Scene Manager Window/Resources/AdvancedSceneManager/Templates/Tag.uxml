@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UXML xmlns="UnityEngine.UIElements"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:engine="UnityEngine.UIElements"
+      xmlns:editor="UnityEditor.UIElements"
+      xsi:noNamespaceSchemaLocation="../../../../../../../../../UIElementsSchema/UIElements.xsd">
+
+  <VisualElement class="Tag-template-header" name="tag-drag-root">
+
+    <VisualElement class="Tag-ColorIndicator"/>
+    <Label class="Collections-template-header-OpenButton draggable-pointerArea" name="tag-drag-button" text="="/>
+    <editor:ToolbarToggle class="Tag-template-header-Expand" name="Tag-template-expander" text="►"/>
+
+    <Label class="Tag-template-header-Label" name="Tag-template-header-Label" text="New Tag"/>
+
+    <Button class="Tag-template-header-Remove" name="Tag-template-header-Remove" text="-"/>
+
+  </VisualElement>
+
+  <VisualElement name="Tag-template-content" class="hidden draggable-hidden">
+
+    <TextField name="Tag-template-Title" class="Tag-Title" label="Title:"/>
+    <TextField name="Tag-template-Label" label="Label:" tooltip="Label to show in collection scene list to quickly identify scenes tagged with this tag"/>
+    <editor:ColorField name="Tag-template-Color" class="Tag-Color" label="Color:" tooltip="Color strip to show in collection scene list to quickly identify scenes tagged with this tag"/>
+    <editor:EnumField name="CloseBehavior" class="CloseBehavior" label="Close behavior:" tooltip="Action to perform for a tagged scene when its parent collection is closed"/>
+    <editor:EnumField name="OpenBehavior" class="CloseBehavior" label="Open behavior:" tooltip="Action to perform for a tagged scene when its parent collection is opened"/>
+
+  </VisualElement>
+
+</UXML>

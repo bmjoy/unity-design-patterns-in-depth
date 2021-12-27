@@ -1,0 +1,19 @@
+{
+    "name": "AdvancedSceneManager",
+    "references": [
+        "GUID:431c2c8c352b87441a5d5312d0b3c500",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:9355a63df021cf44fae09ac3609dd085"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "ASM"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

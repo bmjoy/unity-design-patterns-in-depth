@@ -1,0 +1,114 @@
+﻿#Collections-template-content{
+    padding: 4px 0 2px 0;
+}
+
+.Collection_ColorIndicator{
+    width: 5px;
+    min-width: 5px;
+    height: 18px;
+    align-self: center;
+    margin-right: 3px;
+}
+
+.Collections-template-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 2px 4px ;
+    background-color: var(--collection-header-bg-color);
+}
+
+
+.Collections-template-header-OpenButton{
+    flex-grow: 0;
+    border-radius: 0;
+    width: 20px;
+    height: 20px;
+    background-color: var(--main-btn-color);
+}
+.Collections-template-header-OpenButton:hover{
+    background-color: var(--main-hover-color);
+}
+
+.Collections-template-header-Expand{
+    background-color: var(--main-btn-color);
+    border-width: 0;
+    margin: 2px 2px 2px 3px;
+}
+
+#Collection-template-header-Star {
+    -unity-text-align: middle-left;
+}
+
+.Collection-template-header-Label{
+    flex-grow: 1;
+    flex-shrink: 1;
+    justify-content: center;
+    font-size: 13px;
+    margin-bottom: 1px;
+    -unity-text-align: middle-left;
+    /*-unity-font-style: bold;*/
+
+}
+
+.Collection-template-header-Settings{
+    flex-grow: 0;
+    border-radius: 0;
+    width: 20px;
+    height: 20px;
+    background-color: var(--main-btn-color);
+    border-width: 0;
+    font-size: 20px;
+}
+.Collection-template-header-Settings:hover{
+    flex-grow: 0;
+    border-radius: 0;
+    background-color: var(--main-hover-color);
+}
+
+
+.Collection-template-header-Add{
+    flex-grow: 0;
+    width: 20px;
+    height: 20px;
+    border-width: 0;
+    background-color: var(--main-btn-color);
+}
+.Collection-template-header-Add:hover{
+    border-width: 1px;
+    border-radius: 1px;
+    background-color: var(--main-hover-color);
+}
+
+
+.Collection-template-header-Remove{
+    flex-grow: 0;
+    border-width: 0;
+    width: 20px;
+    height: 20px;
+    background-color: var(--main-btn-color);
+}
+.Collection-template-header-Remove:hover{
+    border-width: 1px;
+    border-radius: 0px;
+    background-color: var(--main-hover-color);
+}
+
+.collection-template-content{
+    margin-bottom: 10px;
+    padding-right: 4px;
+    background-color: var(--collection-content-bg-color);
+}
+
+.Scene-template {
+    height: 22px;
+}
+.draggable-pointerArea {
+    font-size: 18px;
+    margin-right: 4px;
+    padding-bottom: 1px;
+}
+
+.playButton {
+
+}

@@ -1,0 +1,31 @@
+﻿.horizontal {
+	display: flex;
+	flex-direction: row;
+}
+.align-right {
+	align-self: flex-end;
+	position: absolute;
+	right: 0px;
+}
+.horizontal{
+	margin: 4px 1px 2px 3px;
+}
+
+#Collection-fadeDuration {
+	align-self: flex-end;
+	margin-right: 0px;
+	align-content: center;
+	min-width: 42px;
+}
+
+#Collection-loadingScreenEnum {
+	margin-top: -4px;
+}
+
+ObjectField {
+	width: 335px;
+}
+
+TextField {
+	height: 21px;
+}

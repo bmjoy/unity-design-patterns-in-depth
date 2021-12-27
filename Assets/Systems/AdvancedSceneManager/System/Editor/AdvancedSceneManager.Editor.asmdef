@@ -1,0 +1,20 @@
+{
+    "name": "AdvancedSceneManager.Editor",
+    "references": [
+        "GUID:431c2c8c352b87441a5d5312d0b3c500",
+        "GUID:2c6f01f5d27984343bd2e98e1116e8fd",
+        "GUID:9355a63df021cf44fae09ac3609dd085"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_EDITOR",
+        "ASM"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

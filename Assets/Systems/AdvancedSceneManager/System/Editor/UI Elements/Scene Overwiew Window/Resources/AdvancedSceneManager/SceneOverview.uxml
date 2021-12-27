@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UXML xmlns="UnityEngine.UIElements"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:engine="UnityEngine.UIElements"
+      xmlns:editor="UnityEditor.UIElements"
+      xmlns:custom="AdvancedSceneManager.Editor"
+      xsi:noNamespaceSchemaLocation="../../../../../../../../UIElementsSchema/UIElements.xsd">
+
+  <custom:ObjectField name="profileField" type="AdvancedSceneManager.Models.Profile"/>
+
+  <VisualElement name="separator"/>
+    
+  <ScrollView>
+    <VisualElement name="root">
+      
+    </VisualElement>
+  </ScrollView>
+
+</UXML>

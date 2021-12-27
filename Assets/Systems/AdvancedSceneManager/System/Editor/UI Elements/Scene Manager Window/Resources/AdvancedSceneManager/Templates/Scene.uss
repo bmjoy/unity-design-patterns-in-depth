@@ -1,0 +1,73 @@
+﻿.Scene-template{
+    display: flex;
+    flex-direction: row;
+    margin: 2px 0 2px 29px;
+
+}
+
+.sceneField {
+    flex-grow: 1;
+    height: 21px;
+}
+.sceneField .unity-object-field__input {
+    border-radius: 0;
+    margin-left: 2.5px;
+}
+.sceneField .unity-object-field__input .unity-object-field__object{
+    margin-top: 1px;
+}
+.sceneField .unity-object-field__input .unity-object-field__selector{
+    background-color: var(--main-btn-color);
+}
+
+.LayerDropDown{
+    flex-grow: 1;
+    max-width: 80px;
+    min-width: 80px;
+    border-radius: 0;
+    -unity-text-align: middle-left;
+    height: 21px;
+    background-color: var(--main-btn-color);
+}
+.NewScene{
+    background-color: var(--main-btn-color);
+    height: 21px;
+    -unity-text-align: middle-center;
+    border-radius: 0;
+}
+.LayerDropDown:hover , .NewScene:hover{
+    background-color: var(--main-hover-color);
+}
+
+.Scene_ColorIndicator{
+    width: 5px;
+    min-width: 5px;
+    height: 19px;
+    align-self: center;
+    margin-right: 5px;
+    margin-top: 1px;
+}
+.Scene-letter{
+    opacity: 0.4;
+    font-size: 12px;
+    margin: 3px 5px 0 0;
+    width: 10px;
+
+}
+.Scene-template-header-Remove{
+    background-color: var(--main-btn-color);
+    border-width: 0px;
+    border-radius: 0px;
+    width: 20px;
+    height: 20px;
+}
+.Scene-template-header-Remove:hover{
+    background-color: var(--main-hover-color);
+    border-width: 1px;
+    border-radius: 0;
+}
+.draggable-pointerArea{
+    font-size: 18px;
+    margin-right: 4px;
+    padding-bottom: 1px;
+}

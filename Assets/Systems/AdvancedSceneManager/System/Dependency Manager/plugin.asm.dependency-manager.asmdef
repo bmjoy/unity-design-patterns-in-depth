@@ -1,0 +1,17 @@
+{
+    "name": "plugin.asm.dependency-manager",
+    "references": [
+        "GUID:5eaa382c0effb4b46a72fd1adc51cfc0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_EDITOR"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,13 @@
+﻿:root {
+    --header-bg-color: rgb(228, 228, 228);
+    --content-bg-color: transparent;
+    --footer-bg-color: transparent;
+    --main-text-color: rgb(48, 48, 48);
+    --main-bg-color: #c1c1c1;
+    --collection-header-bg-color: rgb(212, 212, 212);
+    --collection-content-bg-color: #c9c8c8;
+	
+    --main-btn-color: transparent;
+    --main-hover-color: white;
+    --main-selected-color: rgb(200, 200, 200);
+}

@@ -1,0 +1,103 @@
+﻿#Tag-template-content{
+    padding: 4px 0 2px 0;
+}
+
+#tag-drag-button {
+    font-size: 22px;
+    margin-top: -3px;
+}
+
+.Tag-ColorIndicator{
+    width: 5px;
+    height: 18px;
+    align-self: center;
+    margin-right: 3px;
+}
+
+.Tag-template-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+.Tag-template-header-OpenButton{
+    flex-grow: 0;
+    border-radius: 0;
+    width: 20px;
+    height: 20px;
+    background-color: var(--main-btn-color);
+}
+.Tag-template-header-OpenButton:hover{
+    background-color: var(--main-hover-color);
+}
+
+.Tag-template-header-Expand{
+    background-color: var(--main-btn-color);
+    border-width: 0;
+    margin: 2px 2px 2px 3px;
+    width: 22px;
+}
+
+.Tag-template-header-Label{
+    flex-grow: 1;
+    justify-content: center;
+    font-size: 13px;
+    -unity-text-align: middle-left;
+    /*-unity-font-style: bold;*/
+
+}
+
+.Tag-template-header-Settings{
+    flex-grow: 0;
+    border-radius: 0;
+    width: 20px;
+    height: 20px;
+    background-color: var(--main-btn-color);
+    font-size: 20px;
+}
+.Tag-template-header-Settings:hover{
+    flex-grow: 0;
+    border-radius: 0;
+    background-color: var(--main-hover-color);
+}
+
+
+.Tag-template-header-Add{
+    flex-grow: 0;
+    width: 20px;
+    height: 20px;
+    border-width: 0;
+    background-color: var(--main-btn-color);
+}
+.Tag-template-header-Add:hover{
+    border-width: 1px;
+    border-radius: 1px;
+    background-color: var(--main-hover-color);
+}
+
+
+.Tag-template-header-Remove{
+    flex-grow: 0;
+    border-width: 0;
+    width: 20px;
+    height: 20px;
+    background-color: var(--main-btn-color);
+}
+.Tag-template-header-Remove:hover{
+    border-width: 1px;
+    border-radius: 0px;
+    background-color: var(--main-hover-color);
+}
+
+.Scene-template {
+    height: 22px;
+}
+
+#Tag-template-content {
+    margin-left: 28px;
+}
+
+.Tag-Title .unity-text-field__input, .unity-base-field__input{
+    border-radius: 0;
+}
