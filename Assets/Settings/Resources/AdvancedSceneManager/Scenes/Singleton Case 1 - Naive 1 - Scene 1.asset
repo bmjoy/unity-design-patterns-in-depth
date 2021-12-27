@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 143365c1c80370a48a4c89e0b158bf44, type: 3}
-  m_Name: Scene 2
+  m_Name: Singleton Case 1 - Naive 1 - Scene 1
   m_EditorClassIdentifier: 
   m_path: Assets/Design Patterns/Singleton/Case Study 1 - Game Manager/Implementation
-    Naive 1 - Static/Scene 2.unity
-  m_assetID: 4ec13d009328df1498ace317bce8e316
+    Naive 1 - Static/Singleton Case 1 - Naive 1 - Scene 1.unity
+  m_assetID: 803e2e664f9770e45a9b4d38650075dd

@@ -12,14 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ed0f1fcb14f10114ca58b525ad780b5b, type: 3}
   m_Name: SceneManagerProfile
   m_EditorClassIdentifier: 
-  m_collections: []
-  m_loadingScreen: 
+  m_collections:
+  - {fileID: 11400000, guid: 5a4a525e301735143a7224ec1c6e0a03, type: 2}
+  m_loadingScreen: Assets/Systems/AdvancedSceneManager/System/Defaults/Fade Loading
+    Screen.unity
   m_splashScreen: 
   m_createCameraForSplashScreen: 1
   m_useDefaultPauseScreen: 1
   m_enableCrossSceneReferences: 0
-  m_standalone: []
-  m_startupLoadingScreen: 
+  m_standalone:
+  - Assets/Systems/AdvancedSceneManager/System/Defaults/Fade Loading Screen.unity
+  m_startupLoadingScreen: Assets/Systems/AdvancedSceneManager/System/Defaults/Fade
+    Loading Screen.unity
   m_backgroundLoadingPriority: 1
   m_enableChangingBackgroundLoadingPriority: 0
   tagDefinitions:
