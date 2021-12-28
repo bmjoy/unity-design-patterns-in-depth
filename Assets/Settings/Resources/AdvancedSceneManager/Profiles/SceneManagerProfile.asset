@@ -47,5 +47,11 @@ MonoBehaviour:
     openBehavior: 1
   m_tags:
     m_throwOnDeserializeWhenKeyValueMismatch: 1
-    keys: []
-    values: []
+    keys:
+    - Assets/Design Patterns/Singleton/Case Study 1 - Game Manager/Implementation
+      Naive 1 - Static/Singleton Case 1 - Naive 1 - Scene 2.unity
+    - Assets/Design Patterns/Singleton/Case Study 2 - The Lonely Cube/Implementation
+      Naive - Static/Singleton Case 2 - Naive 1 - Scene 2.unity
+    values:
+    - DoNotOpen
+    - DoNotOpen

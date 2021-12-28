@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 143365c1c80370a48a4c89e0b158bf44, type: 3}
-  m_Name: Scene 2 (3)
+  m_Name: Singleton Case 2 - Naive 1 - Scene 1
   m_EditorClassIdentifier: 
-  m_path: Assets/Design Patterns/Singleton/Case Study 1 - Game Manager/Implementation
-    Unity 4 - Lazy MonoBehaviour/Scene 2.unity
-  m_assetID: b8096390f8c742a4088b4b851adb26c4
+  m_path: Assets/Design Patterns/Singleton/Case Study 2 - The Lonely Cube/Implementation
+    Naive 1 - Static Field/Singleton Case 2 - Naive 1 - Scene 1.unity
+  m_assetID: f5d54e9053bc70c4a852f298c4d6d048

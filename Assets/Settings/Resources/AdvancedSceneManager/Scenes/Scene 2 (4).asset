@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Scene 2 (4)
   m_EditorClassIdentifier: 
   m_path: Assets/Design Patterns/Singleton/Case Study 1 - Game Manager/Implementation
-    Unity 4 - Lazy MonoBehaviour/Scene 2.unity
-  m_assetID: b8096390f8c742a4088b4b851adb26c4
+    Unity 5 - Thread-Safety Lazy MonoBehaviour/Scene 2.unity
+  m_assetID: b2b64a1a436fe0f41a870d2046da323f
