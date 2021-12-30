@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 143365c1c80370a48a4c89e0b158bf44, type: 3}
   m_Name: Scene (29)
   m_EditorClassIdentifier: 
-  m_path: Assets/Design Patterns/Observer/Case Study 1 - Player & Level/Naive Approaches/Observer
-    Reference/Scene.unity
+  m_path: Assets/Design Patterns/Observer/Case Study 1 - Player & Level/Implementation
+    Naive 1 - Observer Reference/Scene.unity
   m_assetID: 0b0dd05c7b20a1e4d8f4d113ba979672
