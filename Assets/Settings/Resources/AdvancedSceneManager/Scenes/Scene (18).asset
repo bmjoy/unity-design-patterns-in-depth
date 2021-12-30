@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 143365c1c80370a48a4c89e0b158bf44, type: 3}
   m_Name: Scene (18)
   m_EditorClassIdentifier: 
-  m_path: Assets/Design Patterns/Flyweight/Case Study 1 - Boid Simulation/Implementation
-    Unity/Prefab/Scene.unity
-  m_assetID: 6b2e323985db8b94690e9da7c563eddb
+  m_path: Assets/Design Patterns/Decorator/Case Study 1 - Bullet Enhancement/Implementation
+    Base/Scene.unity
+  m_assetID: 09f7a3c490bdf304f8404f8b604d181c

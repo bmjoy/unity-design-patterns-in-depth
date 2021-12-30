@@ -12,5 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 143365c1c80370a48a4c89e0b158bf44, type: 3}
   m_Name: Scene (25)
   m_EditorClassIdentifier: 
-  m_path: Assets/Design Patterns/Observer/Usages/UI Event System/Scene.unity
-  m_assetID: d251410e5f0f5f44095c400269370f8c
+  m_path: Assets/Design Patterns/Memento/Case Study 1 - Save System For Shape Editor/Implementation
+    Base/1. Memento POJO/Scene.unity
+  m_assetID: 4dc325e51f5f65a428c8bd1515990335

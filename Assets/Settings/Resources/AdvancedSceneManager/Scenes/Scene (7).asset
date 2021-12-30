@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 143365c1c80370a48a4c89e0b158bf44, type: 3}
   m_Name: Scene (7)
   m_EditorClassIdentifier: 
-  m_path: Assets/Design Patterns/Bridge/Case Study 1 - Shape, Size & Skin/Implementation
-    Naive 1 - Flatten Hierarchy/Scene.unity
-  m_assetID: e12c9a7843f29594397646c00d4ce31f
+  m_path: Assets/Design Patterns/Adapter/Case Study 1 - Generic Color Modifier/Implementation
+    Base/Scene.unity
+  m_assetID: 2f1cf02b69e35054fb6aa1cd0bc48e7e

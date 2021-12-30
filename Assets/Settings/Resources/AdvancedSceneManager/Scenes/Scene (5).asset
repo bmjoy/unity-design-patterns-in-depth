@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 143365c1c80370a48a4c89e0b158bf44, type: 3}
   m_Name: Scene (5)
   m_EditorClassIdentifier: 
-  m_path: Assets/Design Patterns/Adapter/Case Study 1 - Generic Color Modifier/Implementation
-    Base/Scene.unity
-  m_assetID: 2f1cf02b69e35054fb6aa1cd0bc48e7e
+  m_path: Assets/Design Patterns/Abstract Factory/Case Study 1 - Theme Shape Generator/Implementation
+    Naive/Scene.unity
+  m_assetID: a3d63f01594fb6b4291a22673506e4d1

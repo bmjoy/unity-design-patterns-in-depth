@@ -12,5 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 143365c1c80370a48a4c89e0b158bf44, type: 3}
   m_Name: Scene (14)
   m_EditorClassIdentifier: 
-  m_path: Assets/Design Patterns/Composite/Case Study 1 - Area/Implementation Base/Scene.unity
-  m_assetID: 3de33a862d6a5c1458906d52a4f13b93
+  m_path: Assets/Design Patterns/Bridge/Case Study 1 - Shape, Size & Skin/With Abstract
+    Factory/Implementation Base - Naive [Reflection]/Naive/Scene.unity
+  m_assetID: 197f63efa498430429686917f543af1f

@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Scene (9)
   m_EditorClassIdentifier: 
   m_path: Assets/Design Patterns/Bridge/Case Study 1 - Shape, Size & Skin/Implementation
-    Naive 3 - Monolith Class/Scene.unity
-  m_assetID: 45f501b0a3df7114ab13e489f04d2221
+    Naive 1 - Flatten Hierarchy/Scene.unity
+  m_assetID: e12c9a7843f29594397646c00d4ce31f
