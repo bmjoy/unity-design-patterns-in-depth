@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 143365c1c80370a48a4c89e0b158bf44, type: 3}
-  m_Name: Scene (41)
+  m_Name: Scripting GO Construction
   m_EditorClassIdentifier: 
-  m_path: Assets/Design Patterns/Visitor/Case Study 1 - Shape Calculators/Implementation
-    Base 1/Scene.unity
-  m_assetID: 70ab71e1a1c13ff4cb3a035dceefb579
+  m_path: Assets/Design Patterns/_Techniques/GameObject Construction/Scripting Construction/Scripting
+    GO Construction.unity
+  m_assetID: b7238c2a31578bf408459e314bfa93fb
