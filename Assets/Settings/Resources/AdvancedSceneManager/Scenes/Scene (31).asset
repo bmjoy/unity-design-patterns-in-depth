@@ -12,6 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 143365c1c80370a48a4c89e0b158bf44, type: 3}
   m_Name: Scene (31)
   m_EditorClassIdentifier: 
-  m_path: Assets/Design Patterns/Observer/Case Study 1 - Player & Level/Implementation
-    Unity 2 - UltEvents Asset/Scene.unity
-  m_assetID: dd4f94c37d6da6e43ba8a8b630a87ca3
+  m_path: Assets/Design Patterns/Observer/Usages/UI Event System/Scene.unity
+  m_assetID: d251410e5f0f5f44095c400269370f8c

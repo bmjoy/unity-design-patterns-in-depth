@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Scene (28)
   m_EditorClassIdentifier: 
   m_path: Assets/Design Patterns/Observer/Case Study 1 - Player & Level/Implementation
-    Naive 1 - Observer Reference/Scene.unity
-  m_assetID: 0b0dd05c7b20a1e4d8f4d113ba979672
+    Naive 2 - Subject Tracking/Scene.unity
+  m_assetID: 2242a4f02f2bb9e488b607b77eee93d3

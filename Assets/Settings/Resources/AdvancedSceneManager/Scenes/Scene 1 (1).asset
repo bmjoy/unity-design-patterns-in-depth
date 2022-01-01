@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Scene 1 (1)
   m_EditorClassIdentifier: 
   m_path: Assets/Design Patterns/Singleton/Case Study 1 - Game Manager/Implementation
-    Unity 2 - Persistent MonoBehaviour/Scene 1.unity
-  m_assetID: fa609a91a35a208448b9560a47e35d29
+    Unity 1 - MonoBehaviour/Scene 1.unity
+  m_assetID: ed278f48f6b16504f9bf25ffffc1dc61
