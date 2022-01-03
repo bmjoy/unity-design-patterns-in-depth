@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 143365c1c80370a48a4c89e0b158bf44, type: 3}
-  m_Name: scene
+  m_Name: New Scene
   m_EditorClassIdentifier: 
-  m_path: Assets/Design Patterns/Facade/Case Study 1 - Graphics Controller/_Shared/Assets/CityYard/scene.unity
-  m_assetID: 59b6a5aab384e2d4eb9a6e6d9a90f8ff
+  m_path: Assets/Design Patterns/Builder/Case Study 2 - House Construction/New Scene.unity
+  m_assetID: c3f9a8ffb1004e74299104b3223212dd
