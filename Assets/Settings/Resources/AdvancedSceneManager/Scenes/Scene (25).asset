@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 143365c1c80370a48a4c89e0b158bf44, type: 3}
   m_Name: Scene (25)
   m_EditorClassIdentifier: 
-  m_path: Assets/Design Patterns/Object Pool/Case Study 1 - Gun/Implementation Unity/Pool
-    API/Scene.unity
-  m_assetID: 7f6a87f4883d3e74cabef589f4bf80c6
+  m_path: Assets/Design Patterns/Observer/Case Study 1 - Player & Level/Implementation
+    C# - Action, Delegate & Func/Scene.unity
+  m_assetID: 08f572d6c74d6b548baf8ad49440e7a6

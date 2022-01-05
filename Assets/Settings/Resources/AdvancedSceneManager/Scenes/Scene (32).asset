@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Scene (32)
   m_EditorClassIdentifier: 
   m_path: Assets/Design Patterns/Prototype/Case Study 1 - Shape Generator/Implementation
-    Base/Scene.unity
-  m_assetID: 5469de1f13d587141a74c5eb27d907ae
+    Unity/Instantiate/Scene.unity
+  m_assetID: 85c2e60f00cf93846998d968a24cdc0a

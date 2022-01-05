@@ -12,6 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 143365c1c80370a48a4c89e0b158bf44, type: 3}
   m_Name: Scene (22)
   m_EditorClassIdentifier: 
-  m_path: Assets/Design Patterns/Mediator/Case Study 1 - Shape Collisions/Implementation
-    Base/Scene.unity
-  m_assetID: 8b3368fbc3078d744ad6037a91124084
+  m_path: Assets/Design Patterns/Mediator/Case Study 1 - Shape Collisions/Naive Approaches/Scene.unity
+  m_assetID: 80d3928d827d73f4caede47c21e124a4

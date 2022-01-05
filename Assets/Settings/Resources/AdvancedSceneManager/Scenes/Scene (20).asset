@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 143365c1c80370a48a4c89e0b158bf44, type: 3}
   m_Name: Scene (20)
   m_EditorClassIdentifier: 
-  m_path: Assets/Design Patterns/Flyweight/Case Study 1 - Boid Simulation/Implementation
-    Unity/Prefab & ScriptableObject/Scene.unity
-  m_assetID: f9cc1e9b170736048ae8fc7edb94d716
+  m_path: Assets/Design Patterns/Iterator/Case Study 1 - Waypoint Routing/Implementation
+    Base/Scene.unity
+  m_assetID: 4def6ca8620a35e44b92993330b0e68d

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 143365c1c80370a48a4c89e0b158bf44, type: 3}
   m_Name: Scene (21)
   m_EditorClassIdentifier: 
-  m_path: Assets/Design Patterns/Iterator/Case Study 1 - Waypoint Routing/Implementation
+  m_path: Assets/Design Patterns/Mediator/Case Study 1 - Shape Collisions/Implementation
     Base/Scene.unity
-  m_assetID: 4def6ca8620a35e44b92993330b0e68d
+  m_assetID: 8b3368fbc3078d744ad6037a91124084

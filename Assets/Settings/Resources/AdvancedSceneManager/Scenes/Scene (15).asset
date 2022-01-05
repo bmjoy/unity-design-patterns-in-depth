@@ -12,5 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 143365c1c80370a48a4c89e0b158bf44, type: 3}
   m_Name: Scene (15)
   m_EditorClassIdentifier: 
-  m_path: Assets/Design Patterns/Composite/Case Study 1 - Area/Implementation Base/Scene.unity
-  m_assetID: 3de33a862d6a5c1458906d52a4f13b93
+  m_path: Assets/Design Patterns/CoR/Case Study 1 - Money Exchange/Implementation
+    Base/Scene.unity
+  m_assetID: cfae32c333365fa498ca2d2f9ca73ebd
