@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 143365c1c80370a48a4c89e0b158bf44, type: 3}
   m_Name: _Mesh Effects
   m_EditorClassIdentifier: 
-  m_path: Assets/_Shared/Interactors/Mesh Vfxes/Preview/_Mesh Effects.unity
+  m_path: Assets/_Shared/GO Interactors/Mesh Vfxes/Preview/_Mesh Effects.unity
   m_assetID: 302e9b5aeaa6cef4980be000fcb3e83d

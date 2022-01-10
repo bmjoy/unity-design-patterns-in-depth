@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 143365c1c80370a48a4c89e0b158bf44, type: 3}
   m_Name: _Highlight Effects
   m_EditorClassIdentifier: 
-  m_path: Assets/_Shared/Interactors/Highlight Effects/_Highlight Effects.unity
+  m_path: Assets/_Shared/GO Interactors/Highlight Effects/_Highlight Effects.unity
   m_assetID: 11c74fe3e3c519f41adacc516ea67d14
